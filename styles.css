@@ -1,0 +1,25 @@
+body {
+  background-color: bisque;
+  background-image: Pastel Sticky Notes | Pastel paper notes design Royalty Free Stock Vectors | rawpixel.jpg;
+}
+  
+
+.first {
+  border-radius: 20px;
+  border-color: aqua;
+  text-align: center;
+  background-color: azure;
+  display: flex;
+}
+
+.second {
+  border-radius: 20px;
+  border-color: crimson;
+  text-align: centre;
+  background-color: rgb(239, 230, 230);
+  display: flex;
+}
+
+.name {
+  display: inline-block;
+}
